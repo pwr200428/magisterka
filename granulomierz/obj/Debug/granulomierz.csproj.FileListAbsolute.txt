@@ -1,0 +1,15 @@
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\bin\Debug\granulomierz.exe.config
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\bin\Debug\granulomierz.exe
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\bin\Debug\granulomierz.pdb
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.csprojResolveAssemblyReference.cache
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\MainWindow.g.cs
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\App.g.cs
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz_MarkupCompile.cache
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz_MarkupCompile.lref
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\MainWindow.baml
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.g.resources
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.Properties.Resources.resources
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.csproj.GenerateResource.Cache
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.csproj.CoreCompileInputs.cache
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.exe
+C:\Users\mm\Desktop\magisterka\granulomierz\granulomierz\obj\Debug\granulomierz.pdb
