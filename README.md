@@ -1,2 +1,0 @@
-# mgr
-Master thesis code
